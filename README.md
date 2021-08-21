@@ -1,5 +1,7 @@
 # Human-Face-Spoofing-Detection
 
+Publication link - [Link](https://ieeexplore.ieee.org/document/9225495)
+
 Human face and spoofing detection are of prime importance in many security verification and law enforcement applications. 
 Recently, biometric identification has played a key role here. Face recognition is one such system widely used. However, such system has disadvantages.
 Face spoofing is an attempt to deceive a face recognition system using a substitute for another’s person’s face – usually their photo, or a 3D mask.
